@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/controller/GroupController.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/service/LoanService.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/model/Client.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/model/Fine.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/service/UserService.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/service/InterestRateService.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/service/impl/UserServiceImpl.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/dao/impl/LoanRequestDaoImpl.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/controller/ClientController.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/web/WEB-INF/pages/main/main-sidebar.jsp</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/dao/impl/UserDaoImpl.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/service/impl/InterestRateServiceImpl.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/dao/impl/ClientDaoImpl.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/controller/UserController.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/service/impl/ClientServiceImpl.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/dao/impl/InterestRateDaoImpl.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/dao/impl/LoanDaoImpl.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/dao/UserDao.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/model/User.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/service/LoanRequestService.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/web/WEB-INF/pages/user.jsp</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/web/WEB-INF/pages/interest.jsp</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/model/InterestRate.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/dao/InterestRateDao.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/controller/InterestRateController.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/service/impl/LoanServiceImpl.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/dao/GroupDao.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/controller/LoanController.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/web/WEB-INF/pages/customer.jsp</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/web/WEB-INF/pages/loan.jsp</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/dao/LoanDao.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/service/impl/LoanRequestServiceImpl.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/dao/LoanRequestDao.java</file>
+            <file>file:/D:/Kalum/IJSE/NEW%20ABSD/FinalProject/MicroFinance/src/java/edu/ijse/absd/micro_finance/controller/LoanRequestController.java</file>
+        </group>
+    </open-files>
+</project-private>
